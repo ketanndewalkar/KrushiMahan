@@ -34,7 +34,7 @@ Harvestour provides a secure and collaborative ecosystem for contract farming th
 - Backend – Node.js, Express.js
 - Database – MongoDB
 - Cloud  – Cloudinary (media).
-- TEchnologies- Socket.io
+- Technologies- Socket.io
 
 6. Impact and Benefits
 - Builds trust between farmers and buyers
